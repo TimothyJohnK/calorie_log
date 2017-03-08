@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    margin-left: 1em;
+
+}
+
+form input {
+  margin: .5em;
+}
+
+.meal_buttons {
+    margin-left: 5em;
+}
+
+.inputs_fields {
+    
+}
+
+#enter_button {
+  margin-left: 6em;
+}
+
+#date_field {
+  margin-left: 2.6em;
+}
+
+#food_field {
+  margin-left: 2.3em;
+}
+
+#navbar {
+    background-color: lightblue;
+    padding: .5em;
+}
+
+#dinnerTotals {
+    margin-left: 1.9em;
+}
+
+#lunchTotals {
+    margin-left: 2.2em;
+}
+
+#breakfastTotals {
+
+}
+
+table, th, td {
+    padding: .5em;
+    border: 1px solid black;
+}
+
+td {
+    padding-left: 1em;
+}
+
+
+th {
+    padding: .5em 1em;
+}
+
+
+#food {
+    padding: 0 5em;
+}
+
+#item_calories {
+
+}
+
+#total_meal {
+
+}
+
+#total_day {
+
+}
+
+@media (min-width: 320px) and (max-width: 568px) {
+
+}
